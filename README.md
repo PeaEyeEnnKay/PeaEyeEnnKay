@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning the OpenGL shader pipeline.
 <!--
 **PeaEyeEnnKay/PeaEyeEnnKay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
